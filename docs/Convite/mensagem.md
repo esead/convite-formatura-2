@@ -3,7 +3,7 @@
 <style>
 
 body { 
-  background-image: url("../imagens/fundo7.png");
+  background-image: url("../imagens/fundo9.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center; 

@@ -30,10 +30,9 @@ div.c {
 </style>
 
 <link href="https://fonts.googleapis.com/css?family=Dancing+Script&display=swap" rel="stylesheet">
-
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 <div id="example3">
 <center><img src="turma2.png" style="width:20%"/></center>
-
 
 <center> 
 
@@ -47,7 +46,7 @@ div.c {
 
 <h1 style="font-family:'Dancing Script', cursive; color:#38425B;"><font size="8"><strong>2019.1</strong></font></h1>
 
-
+<p> <button type="button" class="btn btn-outline-primary">Primary</button> </p>
 
 <center><img src="logos.png" style="width:80%"/></center>
   

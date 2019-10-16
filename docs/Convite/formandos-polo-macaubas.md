@@ -3,7 +3,7 @@
 <style>
 
 body { 
-  background-image: url("../imagens/fundo7.png");
+  background-image: url("../imagens/fundo9.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center; 
@@ -97,7 +97,7 @@ div.c {
 </div>
 
 <br> 
-<div class="c"><strong>Colação de Grau: 12 de junho de 2019 às 18h.</strong></div>
+<div class="c"><strong>Colação de Grau: 30 de novembro de 2019.</strong></div>
 
 <h3 style="color:#38425B;"><strong>Local: Praça 6 de Julho. Clube Social e Recreativo de Macaúbas - Centro. Macaúbas - BA. </strong></h3>
 
