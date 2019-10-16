@@ -1,0 +1,41 @@
+site_name: Formatura Licenciatura em Matemática EaD CETEC/UFRB
+site_url: https://seadufrb.github.io/
+site_description: 'A web reference of common baseball statistics.'
+copyright: '&copy; 2019 Superintendência de Educação Aberta e a Distância - SEAD/UFRB.'
+google_analytics:
+    - 'UA-141369154-1'
+    - 'auto'
+site_author: Carlos André
+edit_uri: ''
+pages:
+    - Home: index.md
+    - Convite:
+        - 'Identificação': Convite/identificacao.md
+        - 'Nome da Turma': Convite/nome-turma.md
+        - 'Mensagem Inicial': Convite/mensagem.md
+        - 'Agradecimentos': Convite/agradecimentos.md
+        - 'Formandos Polo Sapeaçu': Convite/formandos-polo-sapeacu.md
+        - 'Formandos Polo Ipirá ': Convite/formandos-polo-ipira.md
+        - 'Formandos Polo Macaúbas': Convite/formandos-polo-macaubas.md
+        - 'Formandos Polo Rio Real': Convite/formandos-polo-rio-real.md
+        - 'Formandos Polo Vitória da Conquista': Convite/formandos-polo-vitoria-da-conquista.md
+        - 'Mensagem Comissão': Convite/mensagem-comissao.md
+        - 'Mensagem Final': Convite/mensagem-final.md
+theme:
+  name: 'material'
+  language: 'pt'
+  logo: img/logo.png
+  palette:
+        primary: 'Black'
+        accent: 'Blue'
+  font:
+    text: 'Helvetica'
+    code: 'Helvetica'
+  feature:
+    tabs: true
+extra_javascript:
+  - 'javascripts/extra.js'
+  - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
+markdown_extensions:
+  - admonition
+site_dir: build
