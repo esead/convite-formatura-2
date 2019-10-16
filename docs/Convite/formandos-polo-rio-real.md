@@ -90,7 +90,7 @@ div.c {
 <center> 
 
 
-<h1 style="font-family:'Dancing Script', cursive; color:#38425B;"><font size="8"><strong>Formandos Polo Rio Real</strong></font></h1>
+<h1 style="font-family:'Dancing Script', cursive; color:#3E62AC;"><font size="8"><strong>Formandos Polo Rio Real</strong></font></h1>
 
 <div class="card">
 <img src="../imagens/rio_real.png" alt="Avatar" style="width:100%">
@@ -99,7 +99,7 @@ div.c {
 <br> 
 <div class="c"><strong>Colação de Grau: 09 de novembro de 2019.</strong></div>
 
-<h3 style="color:#38425B;"><strong>Local: Rua Joaquim Matos, 36 - Rio Real - BA. Espaço de festa Sacolão.</strong></h3>
+<h3 style="color:#3E62AC;"><strong>Local: Rua Joaquim Matos, 36 - Rio Real - BA. Espaço de festa Sacolão.</strong></h3>
 
 </center>
 
@@ -175,6 +175,9 @@ div.c {
 <br> <p style="color:white;"> hhhhhhhhhhhhhhhhh</p>
   
 </center> 
+
+<center><img src="../../logos.png" style="width:80%"/></center>
+
 </div>
 
 

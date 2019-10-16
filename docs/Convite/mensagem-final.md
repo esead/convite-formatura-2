@@ -50,7 +50,7 @@ body {
 
 
 
-<h1 style="font-family:'Dancing Script', cursive; color:#38425B;"><font size="12"><strong>Mensagem Final</strong></font></h1>
+<h1 style="font-family:'Dancing Script', cursive; color:#3E62AC;"><font size="12"><strong>Mensagem Final</strong></font></h1>
 
 <p style="text-align: justify;">
 </p>
@@ -106,6 +106,7 @@ Mas ao mesmo tempo, tempo de partida.</p>
 
 
 
+<center><img src="../../logos.png" style="width:80%"/></center>
 
 
 </div>

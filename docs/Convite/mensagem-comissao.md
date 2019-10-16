@@ -50,7 +50,7 @@ body {
 
 
 
-<h1 style="font-family:'Dancing Script', cursive; color:#38425B;"><font size="12"><strong>Mensagem da Comissão</strong></font></h1>
+<h1 style="font-family:'Dancing Script', cursive; color:#3E62AC;"><font size="12"><strong>Mensagem da Comissão</strong></font></h1>
 
 <p style="text-align: justify;">
 </p>
@@ -88,6 +88,7 @@ possível para fazer deste dia algo inesquecível. Agora nos resta agradecer pel
 </p>
 
 
+<center><img src="../../logos.png" style="width:80%"/></center>
 
 
 </div>

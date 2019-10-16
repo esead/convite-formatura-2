@@ -90,7 +90,7 @@ div.c {
 <center><img src="../imagens/turma2.png" style="width:20%"/></center>
 
 
-<h1 style="font-family:'Dancing Script', cursive; color:#38425B;"><font size="8"><strong>Formandos Polo de Macaúbas</strong></font></h1>
+<h1 style="font-family:'Dancing Script', cursive; color:#3E62AC;"><font size="8"><strong>Formandos Polo de Macaúbas</strong></font></h1>
 
 <div class="card">
 <img src="../imagens/macaubas.png" alt="Avatar" style="width:100%">
@@ -99,7 +99,7 @@ div.c {
 <br> 
 <div class="c"><strong>Colação de Grau: 30 de novembro de 2019.</strong></div>
 
-<h3 style="color:#38425B;"><strong>Local: Praça 6 de Julho. Clube Social e Recreativo de Macaúbas - Centro. Macaúbas - BA. </strong></h3>
+<h3 style="color:#3E62AC;"><strong>Local: Praça 6 de Julho. Clube Social e Recreativo de Macaúbas - Centro. Macaúbas - BA. </strong></h3>
 
 <div class="column">
     <div class="card2">
@@ -224,17 +224,15 @@ div.c {
   </div>
 
 
-<br>
-<br> <p style="color:white;"> hhhhhhhhhhhhhhh</p>
-<div class="card2">
-     <p><strong>Formando</strong></p> 
-        <div class="c"><strong>Wilson Vaz de Oliveira</strong></div>
-        <p><strong>José Antônio de Oliveira e Zilda Rosa Vaz de Oliveira</strong></p>
-    </div>
-</center> 
+
+
+<center><img src="../../logos.png" style="width:80%"/></center>
 
 
 </div>
+
+
+
 
 
 

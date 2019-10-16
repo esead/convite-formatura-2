@@ -51,6 +51,9 @@ body {
 
 
 </center> 
+
+<center><img src="../../logos.png" style="width:80%"/></center>
+
 </div>
 
 

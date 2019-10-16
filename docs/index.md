@@ -46,7 +46,7 @@ div.c {
 
 <h1 style="font-family:'Dancing Script', cursive; color:#38425B;"><font size="8"><strong>2019.1</strong></font></h1>
 
-<p> <button type="button" class="btn btn-outline-primary">Primary</button> </p>
+<p> <a href="Convite/identificacao/"><button type="button" class="btn btn-outline-primary">Convite</button></a> </p>
 
 <center><img src="logos.png" style="width:80%"/></center>
   
