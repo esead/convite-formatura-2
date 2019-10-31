@@ -85,18 +85,20 @@ div.c {
 <br> 
 <center> 
 
-<div class="c"><strong>Colação de Grau: 29 de novembro de 2019</strong></div>
+<div class="c"><strong>Colação de Grau: 29 de novembro de 2019.</strong></div>
+<div class="c"><strong>Horário: 19:00 horas.</strong></div>
 
-<h3 style="color:#3E62AC;"><strong>Local: Rua Sifredo Pedral Sampaio, s/n, (conhecida Rua 10 de Novembro). Escola Maria Viana, Bairro Recreio, ao lado do SENAC - Vitória da Conquista/BA.</strong></h3>
+<h3 style="color:#3E62AC;"><strong>Local: Polo de Vitória da Conquista.</strong></h3>
 
 
 <div class="column">
     <div class="card2">
       <center> 
-      <p><strong>Formanda</strong></p> 
-      <div class="c"><strong>Diana Carla</strong></div>
-      <div class="c"><strong>Barreto</strong></div>
-      <p><strong>Erivaldo de Sousa Barreto <em>in memorian</em> </strong></p>
+      <p><strong>Formando</strong></p> 
+      <div class="c"><strong>Iran Pereira de  Souza</strong></div>
+      <div class="c"><strong>de  Souza</strong></div>
+      <p><strong>Edineide Roberta de Jesus </strong></p>
+      <p><strong>de Jesus </strong></p>
       </center>
     </div>
   </div>
@@ -104,8 +106,10 @@ div.c {
   <div class="column">
     <div class="card2">
      <p><strong>Formanda</strong></p> 
-        <div class="c"><strong>Juliana Araújo Barbosa Novato</strong></div>
-        <p><strong>Jorge Basílio Barbosa e Eleny Araújo Barbosa </strong></p>
+        <div class="c"><strong>Isabel de Jesus Lima</strong></div>
+         <div class="c"><strong>Almeida</strong></div>
+        <p><strong>Ana Rosa de Jesus e  </strong></p>
+        <p><strong> Isaias Ferreira Lima </strong></p>
     </div>
   </div>
 
@@ -115,19 +119,11 @@ div.c {
 <div class="column">
     <div class="card2">
       <center> 
-      <p><strong>Formando</strong></p> 
-      <div class="c"><strong>Ricardo do Amor Divino Santos</strong></div>
-      <p><strong>Ademario Rodrigues dos Santos e Lucidalva do Amor Divino Santos</strong></p>
+      <p><strong>Formanda</strong></p> 
+      <div class="c"><strong>Márcia Aparecida Araujo</strong></div>
+      <div class="c"><strong>Ribeiro</strong></div>
+      <p><strong>Maria de Lourdes Moreira Araujo e Joaquim Souto Muniz</strong></p>
       </center>
-    </div>
-  </div>
-
-  <div class="column">
-    <div class="card2">
-     <p><strong>Formanda</strong></p> 
-        <div class="c"><strong>Tatiana Vieira</strong></div>
-        <div class="c"><strong>Silva</strong></div>
-        <p><strong>José Vital Silva e Marli Vieira Silva </strong></p>
     </div>
   </div>
   <br>
