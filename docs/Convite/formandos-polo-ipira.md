@@ -168,7 +168,7 @@ div.c {
       <center> 
      <p><strong>Formanda</strong></p> 
         <div class="c"><strong>Marli Dias Cerqueira Santos</strong></div>
-        <p><strong>Juldeci Dias Cerqueira de Cintra Brito e Edmundo Azevedo Cerqueira</strong></p>
+        <p><strong>Juldeci Dias Cerqueira e Edmundo Azevedo Cerqueira</strong></p>
       </center>
     </div>
   </div>
