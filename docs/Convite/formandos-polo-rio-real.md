@@ -98,12 +98,11 @@ div.c {
 
 <br> 
 <div class="c"><strong>Colação de Grau: 09 de novembro de 2019.</strong></div>
-<div class="c"><strong>Horário: 19:00 horas</strong></div>
+<div class="c"><strong>Horário: 19:00 horas.</strong></div>
 
 <h3 style="color:#3E62AC;"><strong>Local: Escola Municipal Djalma Faria de Oliveira, 1ª Travessa Antônio Carlos Magalhães, 263, Rio Real - BA.</strong></h3>
 
 </center>
-
 
 <div class="column">
     <div class="card2">
