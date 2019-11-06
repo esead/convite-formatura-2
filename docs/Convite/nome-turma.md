@@ -83,7 +83,6 @@ body {
 <p>Eliene Alves Vaz Teixeira</p>
 <p>Soraia Campos Santos</p>
 <p>Ivonete</p>
-<p>Vanileia</p>
 <p>Jamile Machado da França Saturnino </p>
 </h3>
 

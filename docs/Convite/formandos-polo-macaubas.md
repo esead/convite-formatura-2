@@ -98,6 +98,7 @@ div.c {
 
 <br> 
 <div class="c"><strong>Colação de Grau: 30 de novembro de 2019.</strong></div>
+<div class="c"><strong>Horário: 19 horas.</strong></div>
 
 <h3 style="color:#3E62AC;"><strong>Local: Rua Veredinha, s/n Alto Alexandrino, Macaúbas - BA. </strong></h3>
 
