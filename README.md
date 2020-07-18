@@ -7,5 +7,15 @@ Acesse o convite em: [Convite Virtual](https://esead.github.io/convite-formatura
 
 Acesse o site da [SEAD](https://ufrb.edu.br/sead) e tenha mais informações. 
 
+## Links importantes 
+
+[Centro de Ciências Exatas e Tecnológicas](https://ufrb.edu.br/cetec) 
+
+[Curso de Licenciatura em Matemática EaD](https://www2.ufrb.edu.br/lmatead/)
+
+
+## Produção 
+Esté repositório foi produzido pelo Núcleo de Mídias/SEAD.
+
 
 
